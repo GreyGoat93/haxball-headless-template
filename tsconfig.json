@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": true,
+        "esModuleInterop": true,
+        "noImplicitAny": true,
+        "target": "ES5",
+        "module": "ES2015",
+        "lib": [
+            "ESNext.String", "DOM", "ES2021.String"
+        ]
+    }
+}
